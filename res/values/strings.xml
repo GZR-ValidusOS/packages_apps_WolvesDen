@@ -655,7 +655,7 @@
     <string name="recents_clear_all_location_bottom_center">Bottom center</string>
 
     <!-- PA Pie control -->
-    <string name="pa_piecontrol_settings_summary">Customize Pie targets, sytle, size and color</string>
+    <string name="pa_piecontrol_settings_summary">Customize Pie targets, style, size and color</string>
     <string name="pa_pie_control_title">Pie control</string>
     <string name="pa_pie_control_enable_title">Enable Pie control</string>
     <string name="pa_pie_targets_title">Pie Targets</string>
@@ -679,7 +679,7 @@
     <string name="pa_pie_gap_title">Item gap</string>
     <string name="pa_pie_gap_summary">Adjust the gap that separates the Pie elements</string>
     <string name="pa_pie_angle_title">Pie Angle</string>
-    <string name="pa_pie_angle_summary">Adjust the angle of pie\'s egdes from the attachment</string>
+    <string name="pa_pie_angle_summary">Adjust the angle of pie\'s edges from the attachment</string>
     <string name="pa_pie_angle_none">None (old)</string>
     <string name="pa_pie_angle_small">Small</string>
     <string name="pa_pie_angle_big">Normal (default)</string>
@@ -719,8 +719,8 @@
     <string name="pa_pie_always_right_title">Pie always on the right</string>
     <string name="pa_pie_always_right_summary">Pie will be always shown on the right while in landscape</string>
 
-    <string name="nav_bar_dynamic_title">Dyanamic navbar color</string>
-    <string name="nav_bar_dynamic_summary">Enable disable this swicth for navbar to adapt to apps primary dark color.Restart your desired app to see effect</string>
+    <string name="nav_bar_dynamic_title">Dynamic navbar color</string>
+    <string name="nav_bar_dynamic_summary">Enable disable this switch for navbar to adapt to apps primary dark color.Restart your desired app to see effect</string>
 
     <!-- Heads up settings -->
     <string name="heads_up_notifications">Heads up</string>
@@ -1062,7 +1062,7 @@
     <string name="blur_mixed_color">Mixed image color filter</string>
 
     <string name="blur_notice">About blur...</string>
-    <string name="blur_notice_summary">Blur personlizations are disabled during keyguard view! Only translucent notifications are enabled!</string>
+    <string name="blur_notice_summary">Blur personalizations are disabled during keyguard view! Only translucent notifications are enabled!</string>
     <string name="blur_colors_notice">What are these colors doing?</string>
     <string name="blur_colors_notice_summary">    These colors are the ones tinting the blur background. Instead of the normal grey, you can now choose the colors in the way you like. There are three color filters: One used for light backgrounds, one used for dark backgrounds, and one used for light/dark backgrounds. So how are these colors working? \n    The answer is simple. As the titles say, the light filter will be used for lighter backgrounds, the dark filter for dark backgrounds, and the mixed filter for backgrounds neither too dark nor too light. These colors are used for both the status bar and recent apps blur backgrounds.</string>
 
@@ -1074,13 +1074,13 @@
     <string name="blur_notices_cat">Notices</string>
 
     <string name="blurred_scale">Blur scale</string>
-    <string name="blurred_scale_summary">Quailty of blur image</string>
+    <string name="blurred_scale_summary">Quality of blur image</string>
 
     <string name="blurred_radius">Blur radius</string>
     <string name="blurred_radius_summary">Amount of blur</string>
 
     <string name="blur_cat_notice">Notice</string>
-    <string name="blur_cat_notice_summary">Blur personlizations are disabled during Keyguard view! Only Translucent Notifications are enabled!</string>
+    <string name="blur_cat_notice_summary">Blur personalizations are disabled during Keyguard view! Only Translucent Notifications are enabled!</string>
 
     <!-- Weather in status bar -->
     <string name="status_bar_show_weather_title">Show weather</string>
@@ -1254,7 +1254,7 @@
     <string name="trigger_width_title">Trigger width</string>
     <string name="trigger_width_summary">Adjust the width of the trigger area</string>
     <string name="trigger_top_title">Trigger position</string>
-    <string name="trigger_top_summary">Adjust the vertical postion of the trigger area</string>
+    <string name="trigger_top_summary">Adjust the vertical position of the trigger area</string>
     <string name="trigger_bottom_title">Trigger height</string>
     <string name="trigger_bottom_summary">Adjust the height of the trigger area</string>
     <string name="picker_activities">Activities</string>
@@ -1311,7 +1311,7 @@
     <string name="trigger_width_title">Trigger width</string>
     <string name="trigger_width_summary">Adjust the width of the trigger area</string>
     <string name="trigger_top_title">Trigger position</string>
-    <string name="trigger_top_summary">Adjust the vertical postion of the trigger area</string>
+    <string name="trigger_top_summary">Adjust the vertical position of the trigger area</string>
     <string name="trigger_bottom_title">Trigger height</string>
     <string name="trigger_bottom_summary">Adjust the height of the trigger area</string>
 
